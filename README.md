@@ -13,3 +13,5 @@ If account is approved mfgs can sign in using external api
 From sign in Mfg can see a list of all their products and product information
 
 From their account mfgs can add, update and delete stock items
+
+feature branches to be created off of dev-branch 
